@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on StackOverflow and read tech articles.
+- :zap: In my free time, I solve challenge on HackerRank and read tech articles.
 
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/halil-ibrahim-kalan-86531a21b/">
       <img src="https://img.shields.io/badge/Halil İbrahim Kalan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
