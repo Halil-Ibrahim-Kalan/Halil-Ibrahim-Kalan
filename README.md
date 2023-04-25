@@ -26,6 +26,7 @@
 
 ### 👨‍💻: About Me :
 
+<img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 - :telescope: I’m learning Cyber Security and Web Programming.
