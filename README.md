@@ -42,7 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-<div align="center">
+<div align="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halil-Ibrahim-Kalan&show_icons=true&theme=radical)
 
