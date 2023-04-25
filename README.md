@@ -40,7 +40,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages:
+### :hammer_and_wrench: Languages and Tools:
 
 ![Languages and Tools](https://skillicons.dev/icons?i=arduino,atom,aws,blender,bootstrap,c,cs,cpp,css,dart,eclipse,flutter,git,github,go,html,java,js,jquery,linux,md,mysql,neovim,nginx,ps,php,postman,py,raspberrypi,react,regex,sass,spring,sequelize,vim,visualstudio,vscode,wordpress&theme=dark)
 
