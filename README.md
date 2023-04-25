@@ -53,6 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-Ibrahim-Kalan&layout=compact&theme=radical)
 </div>
+
 ---
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
