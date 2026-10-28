@@ -4,14 +4,10 @@
     <a href="https://www.linkedin.com/in/halil-ibrahim-kalan-86531a21b/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:halilibrahimkalan.02@gmail.com">
+    <a href="mailto:halilibrahimkalan0@gmail.com">
       <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://discord.com/users/798891326958862376">
-      <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discod"/>
-    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=F3X4&style=flat-square&color=blue" alt=""/>
   <h1>
     Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -32,12 +28,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :mailbox:How to reach me: <a href="https://www.linkedin.com/in/halil-ibrahim-kalan-86531a21b/">
       <img src="https://img.shields.io/badge/Halil İbrahim Kalan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-
----
-
-### :hammer_and_wrench: Languages and Tools:
-
-<img src="https://skillicons.dev/icons?i=arduino,atom,aws,blender,bootstrap,c,cs,cpp,css,dart,eclipse,flutter,git,github,go,html,java,js,jquery,linux,md,mysql,neovim,nginx,ps,php,postman,py,raspberrypi,react,regex,sass,spring,sequelize,vim,visualstudio,vscode,wordpress&theme=dark"/>
 
 ---
 
